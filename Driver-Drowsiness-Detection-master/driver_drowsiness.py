@@ -74,7 +74,7 @@ while True:
             drowsy += 1
             if drowsy > 6:
                 status = "Drowsy!!"
-                color = (255, 165, 0)
+                color = (255, 140, 0)
 
         else:
             drowsy = 0
